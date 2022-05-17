@@ -1,9 +1,6 @@
 <div>  ## Hello there! 💁🏽‍♀
- 
-  <img align="left" height="200" alt="yoda" src="https://cdn.discordapp.com/attachments/875871264437305345/875875306777497630/sticker_13.gif">
   
-  My name is Laura and I am a huge design & technology enthusiast working at Ambev Tech 🍻
- 
+  My name is Laura and I am a huge design & technology enthusiast. 
   ##
   
   Skills in development:   
