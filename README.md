@@ -1,9 +1,7 @@
-<div>  ## Hello there! 💁🏽‍♀
-  
-  My name is Laura and I am a huge design & technology enthusiast. 
+<div>  ## Hello there! 💁🏽‍
   ##
   
-  Skills in development:   
+  Skills:   
   <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
